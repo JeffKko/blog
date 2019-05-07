@@ -1,5 +1,5 @@
 # site title
-title: kko
+title: kko's blog
 
 # user name or organization name
 user: JeffKko
@@ -16,7 +16,7 @@ authors:
 token: b#22c3060b816d135efa851dd58263591a79ad154
 
 # posts per page
-perpage: 10
+perpage: 5
 
 
 # advance config
